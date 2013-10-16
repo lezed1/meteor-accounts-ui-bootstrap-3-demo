@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "accounts-ui-bootstrap-3": {
+        "git": "https://github.com/lezed1/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.2.3",
+        "commit": "b1d564dbeb8d66180f3e48e53d1b304d1c96d4d9"
+      },
+    "bootstrap-3": {}
+  }
+}

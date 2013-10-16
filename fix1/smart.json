@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "accounts-ui-bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.2.3",
+        "commit": "da7c2fcbacae63b167a43e6e20b4d1c41cc63d4a"
+      },
+    "bootstrap-3": {}
+  }
+}
